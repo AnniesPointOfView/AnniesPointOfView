@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/anna-artemyeva-66059498">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/annies_point_of_view">
+<a href="https://t.me/annies_point_of_view" background-color="red">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/annies_point_of_view">
